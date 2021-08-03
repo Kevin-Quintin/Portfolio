@@ -3,6 +3,12 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+.navbar ul li a{
+    padding: 5px 10px;
+}
+.navbar ul li a:hover{
+    box-shadow: 0 0 7px white;
+}
 
 /* Headings */
 .headings{
@@ -15,8 +21,8 @@
     align-items: center;
 }
 #pic img{
-    width: 350px;
-    height: 300px;
+    width: 200px;
+    height: 225px;
 }
 #intro h2{
     text-align: center;

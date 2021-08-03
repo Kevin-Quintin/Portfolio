@@ -1,3 +1,15 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.navbar ul li a{
+    padding: 3px 5px;
+}
+.navbar ul li a:hover{
+    box-shadow: 0 0 5px white;
+}
+
 /* Home */
 #home{
     height: 820px;
@@ -8,8 +20,8 @@
 
 /* ABout */
 #pic img{
-    width: 200px;
-    height: 175px;
+    width: 150px;
+    height: 125px;
 }
 
 #intro h2{
