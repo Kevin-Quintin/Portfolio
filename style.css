@@ -145,6 +145,7 @@ html {
   width: 360px;
   height: 240px;
   margin: 10px;
+  cursor: pointer;
 }
 
 /* Services Section */
