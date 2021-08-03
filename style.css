@@ -48,6 +48,13 @@ html{
     align-items: center;
     color: white;
 }
+#home a{
+    text-decoration: none;
+    color: white;
+}
+#home .btn:hover{
+    color: black;
+}
 #home::before{
     content: "";
     position: absolute;
